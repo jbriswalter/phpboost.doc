@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="D:\Documents\Documents PHPBoost\schémas documentation"
+   sodipodi:docname="ExplicationTemplates.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\Documents\Documents PHPBoost\schémas documentation\ExplicationTemplates.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="228.26937"
+     inkscape:cy="731.50704"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#686a6f;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5126"
+       sodipodi:cx="200.51527"
+       sodipodi:cy="389.19702"
+       sodipodi:rx="208.5965"
+       sodipodi:ry="148.9975"
+       d="M 409.11177 389.19702 A 208.5965 148.9975 0 1 1  -8.0812225,389.19702 A 208.5965 148.9975 0 1 1  409.11177 389.19702 z"
+       transform="translate(294.45949,-5.5558231)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#686a6f;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3178"
+       sodipodi:cx="200.51527"
+       sodipodi:cy="389.19702"
+       sodipodi:rx="136.87567"
+       sodipodi:ry="136.87567"
+       d="M 337.39095 389.19702 A 136.87567 136.87567 0 1 1  63.639603,389.19702 A 136.87567 136.87567 0 1 1  337.39095 389.19702 z"
+       transform="translate(-40.406102,5.0507627)" />
+    <rect
+       style="fill:#e6f5fd;fill-opacity:1;stroke:#0e3280;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2160"
+       width="144.58165"
+       height="156.21671"
+       x="88.314011"
+       y="292.36215" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2160"
+       id="use2162"
+       transform="translate(420.22768,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use2162"
+       id="use2164"
+       transform="translate(-168.51195,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3136"
+       style="text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       transform="translate(45.456865,0)"><flowRegion
+         id="flowRegion3138"><rect
+           id="rect3140"
+           width="135.06308"
+           height="195.37997"
+           x="47.142857"
+           y="296.64789"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3142"
+         style="font-size:20px;text-align:center;writing-mode:lr-tb;text-anchor:middle">Page traditionnelle contenant du PHP et du HTML mélangés</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3144"
+       style="text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       transform="translate(297.17641,-1.2703877)"><flowRegion
+         id="flowRegion3146"><rect
+           id="rect3148"
+           width="135.06308"
+           height="195.37997"
+           x="47.142857"
+           y="296.64789"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3150"
+         style="font-size:20px;text-align:center;writing-mode:lr-tb;text-anchor:middle">Fichier PHP : génération de la page et assignation des variables</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3152"
+       style="text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       transform="translate(461.83128,-3.2906928)"><flowRegion
+         id="flowRegion3154"><rect
+           id="rect3156"
+           width="140.11385"
+           height="195.37997"
+           x="47.142857"
+           y="296.64789"
+           style="text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3158"
+         style="font-size:20px;text-align:center;writing-mode:lr-tb;text-anchor:middle">Fichier HTML : Emplacement des variables dans le code HTML</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5118"><flowRegion
+         id="flowRegion5120"><rect
+           id="rect5122"
+           width="131.31982"
+           height="43.436558"
+           x="95.964493"
+           y="462.43311" /></flowRegion><flowPara
+         id="flowPara5124"
+         style="font-size:16;text-anchor:middle;text-align:center;fill:#808080">Fonctionnement traditionnel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7066"
+       transform="translate(321.45291,0.4826262)"><flowRegion
+         id="flowRegion7068"><rect
+           id="rect7070"
+           width="131.31982"
+           height="43.436558"
+           x="95.964493"
+           y="462.43311" /></flowRegion><flowPara
+         id="flowPara7072"
+         style="font-size:16px;text-align:center;text-anchor:middle;fill:#808080">Utilisation de templates</flowPara></flowRoot>  </g>
+</svg>

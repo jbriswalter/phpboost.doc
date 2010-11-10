@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="D:\Documents\Documents PHPBoost\schémas documentation"
+   sodipodi:docname="OpérateursBits.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="D:\Documents\Documents PHPBoost\schémas documentation\OpérateursBits.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="406.83987"
+     inkscape:cy="596.29269"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e6f5fd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:2,6;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4121"
+       width="178.30362"
+       height="62.633842"
+       x="306.96426"
+       y="405.84433" />
+    <rect
+       style="fill:#e6f5fd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2160"
+       width="60.609154"
+       height="62.629459"
+       x="125.25892"
+       y="405.86456" />
+    <rect
+       style="fill:#e6f5fd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4103"
+       width="60.609154"
+       height="62.629459"
+       x="185.76686"
+       y="405.86887" />
+    <rect
+       style="fill:#e6f5fd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4105"
+       width="60.609154"
+       height="62.629459"
+       x="246.30257"
+       y="405.86887" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2160"
+       id="use4113"
+       transform="translate(360.05625,-3.7400832e-7)"
+       width="744.09448"
+       height="1052.3622"
+       style="fill:#e6f5fd;fill-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4103"
+       id="use4115"
+       transform="translate(360.05625,-3.7400832e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4105"
+       id="use4117"
+       transform="translate(360.05625,-3.7400832e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5092"
+       transform="translate(5.3033008,-0.4482747)"><flowRegion
+         id="flowRegion5094"><rect
+           id="rect5096"
+           width="42.072853"
+           height="14.495689"
+           x="615.18292"
+           y="473.94885" /></flowRegion><flowPara
+         id="flowPara5098">bit 1</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5100"
+       transform="translate(-52.597624,-0.4482747)"><flowRegion
+         id="flowRegion5102"><rect
+           id="rect5104"
+           width="42.072853"
+           height="14.495689"
+           x="615.18292"
+           y="473.94885" /></flowRegion><flowPara
+         id="flowPara5106">bit 2</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5108"
+       transform="translate(-110.93394,-0.4482747)"><flowRegion
+         id="flowRegion5110"><rect
+           id="rect5112"
+           width="42.072853"
+           height="14.495689"
+           x="615.18292"
+           y="473.94885" /></flowRegion><flowPara
+         id="flowPara5114">bit 3</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5142"
+       transform="translate(-475.09392,-0.4482747)"><flowRegion
+         id="flowRegion5144"><rect
+           id="rect5146"
+           width="42.072853"
+           height="14.495689"
+           x="615.18292"
+           y="473.94885" /></flowRegion><flowPara
+         id="flowPara5148">bit 32</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5150"
+       transform="translate(-414.63629,-0.4482747)"><flowRegion
+         id="flowRegion5152"><rect
+           id="rect5154"
+           width="42.072853"
+           height="14.495689"
+           x="615.18292"
+           y="473.94885" /></flowRegion><flowPara
+         id="flowPara5156">bit 31</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5158"
+       transform="translate(-356.29998,-0.4482747)"><flowRegion
+         id="flowRegion5160"><rect
+           id="rect5162"
+           width="42.072853"
+           height="14.495689"
+           x="615.18292"
+           y="473.94885" /></flowRegion><flowPara
+         id="flowPara5166">bit 30</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="151.40381"
+       y="367.82233"
+       id="text5188"><tspan
+         sodipodi:role="line"
+         id="tspan5190"
+         x="151.40381"
+         y="367.82233">bit de poids fort</tspan><tspan
+         sodipodi:role="line"
+         x="151.40381"
+         y="382.82233"
+         id="tspan5200">inutilisable,</tspan><tspan
+         sodipodi:role="line"
+         x="151.40381"
+         y="397.82233"
+         id="tspan5202">(signe du nombre)</tspan></text>
+    <g
+       id="g5208"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1">
+      <path
+         id="path5204"
+         d="M 126.25,407.11218 L 184.75,467.36218"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         id="path5206"
+         d="M 126.25,467.61218 L 184.5,406.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0a69e6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 125.86501,490.9194 L 667.5088,490.9194"
+       id="path6185" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#0a69e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="166.17009"
+       y="505.06155"
+       id="text7156"><tspan
+         sodipodi:role="line"
+         id="tspan7158"
+         x="166.17009"
+         y="505.06155">représentation d'un nombre entier (int) sur une plateforme 32 bits (4 octets)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="633.57062"
+       y="393.67001"
+       id="text7160"><tspan
+         sodipodi:role="line"
+         x="633.57062"
+         y="393.67001"
+         id="tspan7166">bit de poids faible</tspan></text>
+  </g>
+</svg>

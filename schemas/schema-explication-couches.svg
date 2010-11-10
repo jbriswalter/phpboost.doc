@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="schema-explication-couches.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Documents and Settings\Benoit\Bureau\schema-explication-couches.png"
+   inkscape:export-xdpi="65.100983"
+   inkscape:export-ydpi="65.100983">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3215"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <filter
+       inkscape:collect="always"
+       id="filter5169">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4733097"
+         id="feGaussianBlur5171" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="304.91639"
+     inkscape:cy="534.93336"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#cde0ee;fill-opacity:1;filter:url(#filter5169);stroke:#1f2934;stroke-opacity:1"
+       id="rect5063"
+       width="651.42859"
+       height="318.57144"
+       x="52.857143"
+       y="452.36218"
+       ry="145.041" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2383"
+       width="448.57144"
+       height="122.85714"
+       x="151.42857"
+       y="472.65442"
+       ry="4.0406103" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2385"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#fff2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(-25,58.149402)"><flowRegion
+         id="flowRegion2387"><rect
+           id="rect2389"
+           width="411.42859"
+           height="81.428574"
+           x="217.14285"
+           y="440.93362"
+           style="fill:#fff2f2;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2391"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fff2f2;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">Couche inférieure</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#3388c9;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3163"
+       width="448.57144"
+       height="122.85714"
+       x="151.49103"
+       y="209.07553"
+       ry="4.0406103" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3173"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#fff2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(-21.402718,-201.63522)"><flowRegion
+         id="flowRegion3175"><rect
+           id="rect3177"
+           width="372.15158"
+           height="61.010151"
+           x="217.14285"
+           y="440.93362"
+           style="fill:#fff2f2;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3179"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fff2f2;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">Couche courante</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#e53b00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="M 244.45692,331.11326 L 244.45692,472.53462"
+       id="path3201"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#e53b00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 510.12704,472.01431 L 510.12704,330.59295"
+       id="path5011"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5013"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(451.53819,22.223356)"><flowRegion
+         id="flowRegion5015"><rect
+           id="rect5017"
+           width="164.65486"
+           height="84.852814"
+           x="45.456863"
+           y="359.39752" /></flowRegion><flowPara
+         id="flowPara5019"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">Réponse</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5021"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(29.0545,7.5263412)"><flowRegion
+         id="flowRegion5023"><rect
+           id="rect5025"
+           width="164.65486"
+           height="84.852814"
+           x="45.456863"
+           y="359.39752" /></flowRegion><flowPara
+         id="flowPara5027"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">Demande d'un service</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#333333;fill-opacity:0.38589212000000001;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 6;stroke-dashoffset:0;stroke-opacity:0.69709545"
+       id="rect5049"
+       width="262.7034"
+       height="57.196651"
+       x="243.41492"
+       y="619.19751"
+       ry="4.0406103" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:0.38589214;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:3, 6;stroke-dashoffset:0;stroke-opacity:0.69709544"
+       id="rect5051"
+       width="262.7034"
+       height="57.196651"
+       x="244.42505"
+       y="690.41351"
+       ry="4.0406103" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5053"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="translate(454.59239,301.44327)"><flowRegion
+         id="flowRegion5055"><rect
+           id="rect5057"
+           width="164.65486"
+           height="84.852814"
+           x="45.456863"
+           y="359.39752" /></flowRegion><flowPara
+         id="flowPara5059"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">Sous couches éventuelles</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5173"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#3388c9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;text-anchor:middle;text-align:center"
+       transform="translate(-210.03795,163.29908)"><flowRegion
+         id="flowRegion5175"><rect
+           id="rect5177"
+           width="230.72304"
+           height="199.58157"
+           x="217.14285"
+           y="440.93362"
+           style="fill:#3388c9;fill-opacity:1;text-anchor:middle;text-align:center" /></flowRegion><flowPara
+         id="flowPara5179"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3388c9;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS;text-anchor:middle;text-align:center">Boîte noire dont on ne connait pas le fonctionnement</flowPara></flowRoot>  </g>
+</svg>
